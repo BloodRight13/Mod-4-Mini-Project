@@ -24,22 +24,21 @@ When starting the code you are met with this Interface
 From this Interface you will be able to access the follining interfaces by typing in the number of what you would like to do.
 
 Book Operations:
-        Book Operations:
-        1. Add a new book
-        2. Borrow a book
-        3. Return a book
-        4. Search for a book
-        5. Display all books
+1. Add a new book
+2. Borrow a book
+3. Return a book
+4. Search for a book
+5. Display all books
+
 User Operations:
-        User Operations:
-        1. Add a new user
-        2. View user details
-        3. Display all users
+1. Add a new user
+2. View user details
+3. Display all users
+
 Author Operations:
-        Author Operations:
-        1. Add a new author
-        2. View author details
-        3. Display all authors
+1. Add a new author
+2. View author details
+3. Display all authors
 
 The code is a simple use of python with a stroage system that will allow you to save your items in the storage. While the code is running this will not save the code permently.
 You can run throught the library_main.py file.
